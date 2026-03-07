@@ -1,8 +1,7 @@
 ---
 layout: page
 title: "test"
-date: 2025-08-10
-permalink: test
+permalink: /test-page
 ---
 
 testing if the site is working.
