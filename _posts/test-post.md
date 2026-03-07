@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: post
 title: "test"
-permalink: /test-page
+date: 2026-03-08
+permalink: /test-post
 ---
 
 testing if the site is working.
